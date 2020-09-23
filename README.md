@@ -1,5 +1,8 @@
 # react-file-aws
 
+## Intro
+Here we are solving the problem of uploading files to AWS S3 directly using React and React Hooks.
+
 ## Quick Start
 This is the quick start guide to uploading files to react.    
 - Follow Me
