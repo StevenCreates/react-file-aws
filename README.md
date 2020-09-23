@@ -13,6 +13,7 @@ This is the quick start guide to uploading files to react.
 - Success
 
 
-## Questions Walk Through
+## Questions / Walk Through
 
+If you have any questions feel free to read through the guide as well as ask me questions via medium.
 [Medium Article](https://medium.com/@steven_creates/uploading-files-to-s3-using-react-js-hooks-react-aws-s3-c4c0684f38b3)
